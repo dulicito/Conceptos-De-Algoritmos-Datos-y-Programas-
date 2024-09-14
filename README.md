@@ -2,7 +2,7 @@
  > consejo: recomendadisimo aprobar cadp por saber toda la materia y no por aprobarla por que te 'traba' varias materias, el objetivo general, segun desde mi punto de vista como estudiante, es desarrollar nuestra logica para resolver problemas, no programar(el cual eso lo veremos en taller ya adquirido este conocimiento) 
 
 
-la cursada se encuentra se aprueba con un parcial en el cual se puede aprobar en 1ra, 2da, y 3ra fecha 
+la cursada se aprueba con un parcial en el cual se puede aprobar en 1ra, 2da, y 3ra fecha 
 
 en el siguiente enlace, encontraras material con respecto a la cursada:
 
