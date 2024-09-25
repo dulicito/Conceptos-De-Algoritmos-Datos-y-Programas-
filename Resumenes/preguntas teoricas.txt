@@ -36,7 +36,7 @@ h-defina el concepto de parametro en el contexto de la modularizacion
 
 i-diferencias entre parametros por valor y por referencia
 
-j-¿Por qué cree que es util para el programador contar con los parametros para escribir soluciones modularizadas?.
+j-Â¿Por quÃ© cree que es util para el programador contar con los parametros para escribir soluciones modularizadas?.
 
 k-que es la reusabilidad en la modularizacion?
 
