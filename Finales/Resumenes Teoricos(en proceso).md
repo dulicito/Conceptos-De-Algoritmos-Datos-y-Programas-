@@ -1,6 +1,6 @@
 # Preguntas Frecuentes de Finales 
 
-### _Modularizacion y Variables_
+### _'Modularizacion y Variables'_
 
 > Defina el concepto de modularizacion y sus principales ventajas
 > > Respuesta
@@ -107,7 +107,7 @@
 
 
 
-### _Estructuras de Control y Datos_
+### _'Estructuras de Control y Datos'_
 > Defina el concepto de estructura de datos
 
 > > Respuesta
@@ -154,7 +154,7 @@
 
 
 
-### _Vectores_
+### _'Vectores'_
 
 > Implemente la operacion agregar en el vector 
 
@@ -168,7 +168,7 @@
 
 
 
-### _Listas_
+### _'Listas'_
 
 > Defina y caracterice el tipo de dato lista enlazada, especifique una representacion posible en pascal
 > > Respuesta
@@ -209,7 +209,7 @@
 
 
 ---
-### _Eficiencia_
+### _'Eficiencia'_
 
 > Defina el concepto de eficiencia
 
