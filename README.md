@@ -9,4 +9,4 @@ la cursada se aprueba con un parcial en el cual se puede aprobar en 1ra, 2da, y 
 [CANAL DE YOUTUBE CON VIDEOS](https://www.youtube.com/@dulicito)
 
 
-`⋅˚₊‧ ୨୧ ‧₊˚ ⋅ ¡ RECORDATORIO !: estudia xd <3 𖦹๋࣭⭑`
+`⋅˚₊‧ ୨୧ ‧₊˚ ⋅ nota extra: va a costar? OBVIO, si siempre hay como mil pibes en cada cuatri, pero tambien hay personas que si la aprobaron, poniendole garra obvio que sale, consejo, consultale a los profesores de las resoluciones, pueden tener distinto criterio de evaluacion al correguir (ademas que la catedra es media exquisita en cuanto a lo que acepta como un parcial para considerarse "aprobado") 𖦹๋࣭⭑`
